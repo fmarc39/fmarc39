@@ -3,8 +3,8 @@
 ### Développeur full stack JS
 ![Développeur full stack JS](https://www.epfl.ch/education/education-and-science-outreach/wp-content/uploads/2020/01/Visuel-Coding-Club-plusieurs-pictos.png)
 
-Je suis un développeur fullstack JavaScript spécialisé en React.
-J’ai concentré mes compétences en Frontend, mais je suis tout à fait capable de travailler sur des projets Backend avec NodeJS & PostgreSQL.
+Je suis un développeur fullstack **JavaScript** spécialisé en **React**.
+J’ai concentré mes compétences en Frontend, mais je suis tout à fait capable de travailler sur des projets Backend avec **NodeJS** & **PostgreSQL**.
 
 ### Languages et outils
 
@@ -35,7 +35,7 @@ J’ai concentré mes compétences en Frontend, mais je suis tout à fait capabl
 
 
 - 🔭 Je travail actuellement sur un projet de NFT dédié à la photo 
-- 🌱 J'apprend actuellement Vue.js, MongoDB 
+- 🌱 J'apprend actuellement **Vue.js**, **Solidity**, Web3
 
 ---
 
